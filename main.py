@@ -14,6 +14,8 @@ from ssl import get_server_certificate
 import ssl
 import OpenSSL.crypto
 
+#This is a trial commit
+
 # Function to update the timer information
 def update_timer(start_time):
     current_time = datetime.now()
